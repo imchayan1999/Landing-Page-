@@ -1,0 +1,55 @@
+<svg width="195" height="37" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="clip0">
+   <rect id="svg_1" fill="white" height="37" width="27"/>
+  </clipPath>
+  <linearGradient y2="0.760686" x2="0.437452" y1="-0.614267" x1="0.677968" id="paint0_linear">
+   <stop stop-color="#0096D9"/>
+   <stop stop-color="#00C198" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="0.83151" x2="0.648581" y1="0.139732" x1="0.261752" id="paint1_linear">
+   <stop stop-color="#002DD9"/>
+   <stop stop-color="#00B2AB" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="1.043138" x2="0.168863" y1="-0.487265" x1="1.079467" id="paint2_linear">
+   <stop stop-color="#3482C0"/>
+   <stop stop-color="#96BEDE" offset="0.45"/>
+   <stop stop-color="#E1EDF6" offset="0.83"/>
+   <stop stop-color="white" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="85.262441" x2="-7.084003" y1="4.670002" x1="71.260196" id="paint3_linear">
+   <stop stop-color="#3482C0"/>
+   <stop stop-color="#96BEDE" offset="0.45"/>
+   <stop stop-color="#E1EDF6" offset="0.83"/>
+   <stop stop-color="white" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="392.469172" x2="-197.054541" y1="-112.580756" x1="58.945035" id="paint4_linear">
+   <stop stop-color="#569FA1"/>
+   <stop stop-color="#97C4C5" offset="0.36"/>
+   <stop stop-color="#E2EEEF" offset="0.8"/>
+   <stop stop-color="white" offset="1"/>
+  </linearGradient>
+  <radialGradient gradientTransform="translate(21.5938 32.382) scale(27.8184 27.5367)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" id="paint5_radial">
+   <stop stop-color="#FFFF00"/>
+   <stop offset="1"/>
+  </radialGradient>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="514" width="514" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_3" clip-path="url(#clip0)">
+   <path id="svg_4" fill="url(#paint0_linear)" d="m20.2107,0.53933c-3.4188,-0.90766 -7.0447,-0.67148 -10.31385,0.67179c-3.26912,1.34326 -5.99814,3.71832 -7.76256,6.75572c-1.76442,3.03736 -2.46531,6.56686 -1.99366,10.03936c0.47165,3.4725 2.0894,6.6934 4.60162,9.1616l0,0l17.88635,-17.7022c0.6688,-0.66245 1.1496,-1.48748 1.3943,-2.39217c0.2446,-0.90469 0.2444,-1.85718 -0.0006,-2.76176c-0.245,-0.90459 -0.7263,-1.72941 -1.3953,-2.39158c-0.6691,-0.66218 -1.5024,-1.13838 -2.4163,-1.38076l0,0z"/>
+   <path id="svg_5" fill="url(#paint1_linear)" d="m6.78875,36.4601c3.42085,0.9106 7.04985,0.6758 10.32195,-0.6676c3.272,-1.3435 6.0035,-3.7202 7.7689,-6.7602c1.7655,-3.04 2.4659,-6.5726 1.9921,-10.0476c-0.4737,-3.475 -2.095,-6.6974 -4.6114,-9.16536l-17.88636,17.71446c-0.6688,0.6622 -1.14978,1.487 -1.39461,2.3915c-0.24483,0.9045 -0.2449,1.8569 -0.0002,2.7614c0.2447,0.9046 0.72556,1.7294 1.39427,2.3918c0.6687,0.6623 1.50172,1.1388 2.41535,1.3816l0,0z"/>
+   <path id="svg_6" fill="url(#paint2_linear)" d="m22.2603,9.81934l-17.88636,17.71446c-0.6688,0.6622 -1.14978,1.487 -1.39461,2.3915c-0.24483,0.9045 -0.2449,1.8569 -0.0002,2.7614c0.2447,0.9046 0.72556,1.7294 1.39427,2.3918c0.6687,0.6623 1.50172,1.1388 2.41535,1.3816c1.91267,0.5049 3.90295,0.6568 5.87115,0.448c-7.84267,-7.4688 9.6004,-27.08876 9.6004,-27.08876z"/>
+   <g id="svg_7">
+    <path id="svg_8" fill="url(#paint3_linear)" d="m6.46017,36.3617c-2.53881,-7.7817 12.70953,-23.4525 15.40023,-26.1344l-17.48645,17.3063c-0.64832,0.6419 -1.12051,1.4369 -1.37193,2.3097c-0.25142,0.8729 -0.27376,1.7948 -0.06491,2.6786c0.20886,0.8838 0.64201,1.7003 1.25848,2.3722c0.61648,0.6719 1.39591,1.177 2.26458,1.4676l0,0z"/>
+    <path id="svg_9" fill="url(#paint4_linear)" d="m22.2014,9.88984c0.0186,-0.02043 0.0382,-0.03989 0.0589,-0.0583l0,0l-0.0589,0.0583z"/>
+   </g>
+   <path id="svg_10" fill="url(#paint5_radial)" d="m23.9404,7.3645l-19.21927,19.7918l17.90807,-17.68987c0.5981,-0.58868 1.0474,-1.30886 1.3112,-2.10193l0,0z"/>
+  </g>
+  <text stroke="null" transform="matrix(0.7309103930923049,0,0,1,9.444045623608382,0) " font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="24" id="svg_15" y="26.953125" x="29.659216" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">Protect your Home</text>
+ </g>
+</svg>
